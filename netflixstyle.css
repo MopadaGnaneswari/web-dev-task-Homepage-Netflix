@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    height: 320vh;
+    width: 300vw;
+    color: white;
+    display: inline-block;
+    background-color: rgba(0, 8, 29, 1);;
+  }
+  .head{
+    display: block;
+    align-items:normal;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("https://media.istockphoto.com/id/915697084/photo/concept-of-reserved-seats.jpg?s=612x612&w=0&k=20&c=vYKpKwkfF3FLLt-v9UUgOZop9veyg-nen8QxFKnhDro=");
+  }
+  .n0{
+    height: 10vh; 
+    width: 100vw;
+    align-items: center; 
+    display: flex;
+}
+.img0{
+    height: 80px;
+    width: 150px;
+    margin: 10px 30px;
+}
+.lng{
+    height: 30px;
+    width: 100px;
+    margin:24px 30px 24px 72vw;
+    padding: 0px 10px;
+    background-color: rgb(15, 15, 15,0.71);
+    color: yellow;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.Bt1{
+    height: 30px;
+    width: 100px;
+    color: white;
+    margin: 24px 30px 24px 5px;
+    background-color: red;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.Bt1:hover{
+    background-color: rgb(75, 3, 3);
+    color: yellow;
+}
+.n1{
+    margin: 20vh 0px 20vh 30px;
+}
+
+.h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-stretch: condensed;
+    margin: 21px 0px 30px 0px;
+}
+.imp1{
+    height: 6vh;
+    width: 20vw;
+    align-items: center;
+    background-color: rgb(15, 15, 15,0.71);
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 0px 0px 0px 10px ;
+    /* box-shadow: bolder; */
+    margin: 0px 10px 0px 0px;
+}
+.img1{
+    width:480px;
+    height:380px;
+    float:right;
+}
+.Bt2{
+    height: 6vh;
+    width: 8vw;
+    background-color: red;
+    border-radius: 10px;
+    border: solid 2px white;
+}
+.Bt2:hover{
+    background-color: rgb(75, 3, 3);
+    color: yellow;
+}
+.n2{
+    display: flex;
+    margin: 20px 30px;
+}
+.cont1,.cont2,.cont3,.cont4 {
+    height: 50vh;
+    width: 25vw;
+    border-radius: 10px;
+    /* text-align: center; */
+    /* padding: 10px 0px; */
+    margin: 0px 4px;
+    background: linear-gradient(151.6deg, #E40913 -46.64%, #181049 48.45%);
+  }
+  .img{
+    height: 200px;
+    width: 300px;
+    margin: 15px 0px 15px 15px;
+  }
+.h2{
+    margin: 0px 0px 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.q1{
+    margin: 10px 20px 0px 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.n3{
+    margin: 30px 30px;
+}
+.q2{
+    margin: 0px 0px 0px 15px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 35px;
+    font-weight: bold;
+}
+.Bt3,.Bt4,.Bt5,.Bt6,.Bt7,.Bt8{
+    height: 80px;
+    width: 80vw;
+    border-radius: 10px;
+    /* justify-content: center; */
+    margin: 04px 0px;
+    background-color: rgb(36, 34, 34);
+    color: white;
+    font-size: 30px;
+    font-weight: bold; 
+    text-align-last: left;
+    padding-left: 30px; 
+}
+.Bt3:hover,.Bt4:hover,.Bt5:hover,.Bt6:hover,.Bt7:hover,.Bt8:hover{
+    font-size: 32px;
+    font-weight: bold;
+}
+.n4{
+    margin: 0px 50px 30px;
+}
+.contact{
+    margin: 100px 0px 70px 50px;
+}
+nav{
+    display: flex;
+}
+.ul1,.ul2,.ul3,.ul4,.ul5{
+    display : ruby;
+    margin: 20px 0px 20px 70px;
+}
+
+.l1{
+    margin: 15px 0px;
+}
+.l2{
+    margin: -13px 0px 0px 0px;
+}
+.l3{
+   margin: -13px 0px 0px 0px;
+}
+.l4{
+    margin: -13px 0px 0px 0px;
+}
+a{
+    color: white;
+}
+.tell{
+    margin: 0px 50px 30px
+}
+.lng0{
+    height: 30px;
+    width: 100px;
+    margin:24px 0px 24px ;
+    padding: 0px 10px;
+    background-color: rgb(15, 15, 15,0.71);
+    color:yellow;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px ;
+}
